@@ -1,3 +1,8 @@
+# Contributor: Maya Ramsey
+# Description: Contents: date2040.py - Challenge V: Recieves ISO 8601 datestamp 
+# and interval in seconds from API. Returns sum of datestamp and interval ISO 8601 format.
+# ------------------------------------------------------------
+
 import json
 import requests
 import datetime

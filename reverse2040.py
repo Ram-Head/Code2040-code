@@ -1,3 +1,7 @@
+# Contributor: Maya Ramsey
+# Description: Challenge II: reverse a string recieved from API.
+# ---------------------------------------------------------------
+
 import json
 import requests
 

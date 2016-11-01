@@ -1,3 +1,8 @@
+# Contributor: Maya Ramsey
+# Description: Contents: Challenge IV: Recieves array and prefix string from API 
+# and returns array of all the strings in the original array without the prefix.
+# -----------------------------------------------------------------------------
+
 import json
 import requests
 

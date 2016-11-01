@@ -1,3 +1,8 @@
+# Contributor: Maya Ramsey
+# Description: Contents: needle2040.py - Challenge III: Finds a string 
+# ("needle") in an array ("haystack") provided by API.
+# --------------------------------------------------------------------
+
 import json
 import requests
 
